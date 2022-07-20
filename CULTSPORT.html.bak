@@ -1,0 +1,249 @@
+<html>
+<head>
+      <meta charset="UTF-8">
+	  
+	 <title>Products Details - Wolves </title>
+	 <link rel="stylesheet" href="style.css">
+	 <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" >
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,500;1,600&display=swap" rel="stylesheet">
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+
+   <div class="container">
+   
+   <div class="navbar">
+	 <div class="logo">
+             <a href="file:///C:/Users/user/Desktop/wolves/wolves.html"> <img src="logo.png" width="125px"></a>
+	 </div>
+       <nav>
+	       <ul>
+	        <li><a href="file:///C:/Users/user/Desktop/wolves/wolves.html">HOME</a></li>
+			<li><a href="file:///C:/Users/user/Desktop/wolves/products.html">PRODUCTS</a></li>
+			<li><a href="file:///C:/Users/user/Desktop/wolves/about.html">ABOUT</a></li>
+			<li><a href="file:///C:/Users/user/Desktop/wolves/contact.html?">CONTACT</a></li>
+			<li><a href="file:///C:/Users/user/Desktop/wolves/account.html">ACCOUNT</a></li>
+	        </ul>
+	     </nav>
+		 <a href="file:///C:/Users/user/Desktop/wolves/cart.html"><img src="image3.png" width=40px height=40px></a>
+
+       </div>
+	   </div>
+	   
+	   
+	   	 <!----------- single products details--------->
+	 
+	 <div class="small-container single-products ">
+	 <div class="row">
+	 <div class="col-2">
+	 <img src="CULTSPORT1.png" width="100%" id="product-img">
+	 <div class="small-img-row">
+	    <div class="small-img-col">
+	    <img src="CULTSPORT2.png" width="100%" class="small-img">
+	 </div>
+	 
+	 	    <div class="small-img-col">
+	    <img src="CULTSPORT3.png" width="100%" class="small-img">
+	 </div>
+	 
+	 	    <div class="small-img-col">
+	    <img src="CULTSPORT4.png" width="100%" class="small-img">
+	 </div>
+	 
+	 	    <div class="small-img-col">
+	    <img src="CULTSPORT5.png" width="100%" class="small-img">
+	 </div>
+	 
+	 
+ </div>	 
+	 </div>
+	<div class="col-2">
+       <p>Home / T-Shirt</p>
+       <h1>CULTSPORT Vitals Textured Running T-Shirt</h1>
+	   <h4>650.00RS</h4>
+	   <select>
+	        <option>Select Size </option>
+			<option>XXL</option>
+			<option>XL </option>
+			<option>Large </option>
+			<option>Medium </option>
+			<option>Small</option>
+	   </select>
+	   <input type="number" value="1">
+	   <a href="file:///C:/Users/user/Desktop/wolves/cart.html" class="btn"> Add To Cart</a>
+	   
+	   <h3> Product Details  <i class="fa fa-indent"></i></h3>
+	 
+	   <p> Run your own race, defy the norms and cook up a storm in this workout T-shirt. 
+	   Meant to move with you,
+	   this combines design and technology to deliver a performance as impressive as yours.  </p>
+	   </div>
+	  </div>  
+	 </div>   
+	   	 <!----------- title--------->
+		 <div class="small-container">
+		 <div class="row row-2">
+		 <h2>Related Products</h2>
+		 <a href="file:///C:/Users/user/Desktop/wolves/products.html"><p>View More</p></a>
+		 
+		 </div>
+		 </div>
+
+	 	 <!----------- product--------->
+			 <div class="row">
+			 <div class="col-4">
+			     <img src="girl sport shoe.png">
+			  <h4> Boys Runing Shoes Girls</h4>
+			  <div class="rating">
+			  <i class="fa fa-star"></i>
+			  <i class="fa fa-star"></i>
+			  <i class="fa fa-star"></i>
+			  <i class="fa fa-star"></i>
+			  <i class="fa fa-star-o"></i>
+			  </div>
+			  	  <p>1500.00Rs</p>
+			 </div>
+			 
+			  <div class="col-4">
+			     <img src="watch.png">
+			  <h4> Smart Watch For Boys </h4>
+			  <div class="rating">
+			  <i class="fa fa-star"></i>
+			  <i class="fa fa-star"></i>
+			  <i class="fa fa-star"></i>
+			  <i class="fa fa-star"></i>
+			  <i class="fa fa-star-o"></i>
+			  </div>
+			    <p>7500.00Rs</p>
+			 </div>
+
+			  <div class="col-4">
+			     <img src="reebok man1.png">
+			  <h4>Reebok Short For Men</h4>
+			  <div class="rating">
+			  <i class="fa fa-star"></i>
+			  <i class="fa fa-star"></i>
+			  <i class="fa fa-star"></i>
+			  <i class="fa fa-star-o"></i>
+			  <i class="fa fa-star-o"></i>
+		  </div>
+          <p>850.00Rs</p>
+			 </div>
+			 
+			 		  <div class="col-4">
+			     <img src="women watch.png">
+			  <h4>Smart Watch For Girls</h4>
+			  <div class="rating">
+			  <i class="fa fa-star"></i>
+			  <i class="fa fa-star"></i>
+			  <i class="fa fa-star"></i>
+			  <i class="fa fa-star"></i>
+			  <i class="fa fa-star-o"></i>
+		  </div>
+          <p>7200.00Rs</p>
+			 </div>
+			 
+			 </div>
+			 
+			 			 
+			
+
+	   
+	   
+	   
+	 <!----------- footer--------->
+	 
+	 <div class="footer">
+	   <div class="container">
+	     <div class="row">
+		    <div class="footer-col-1">
+			<h3> Download Our App</h3>
+			<p> Download App For Android & ios mobile phone.</p>
+			 <div class="app-logo">
+			 <a href="https://play.google.com/store/games?utm_source=apac_med&utm_medium=hasem&utm_content=Oct0121&utm_campaign=Evergreen&pcampaignid=MKT-EDR-apac-in-1003227-med-hasem-py-Evergreen-Oct0121-Text_Search_BKWS-BKWS%7CONSEM_kwid_43700065205026385_creativeid_535350509687_device_c&gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlHMbVwL5hRDcMTVEWvWsbzmZsOc4vRdLmgGUnW0Z8JwnJpVgPZ7N48aAupjEALw_wcB&gclsrc=aw.ds"><img src="google play.png"></a>
+			<a href="https://www.apple.com/in/app-store/"> <img src="apple-app-store-logo.png"></a>
+			</div>
+			</div>
+			 <div class="footer-col-2">
+	<a href="file:///C:/Users/user/Desktop/wolves/wolves.html"><img src="logo2.png"></a>
+			<p>Our purpose Is To Sustainably Make the Pleasure and
+              Benefits of Sports Accessible to the Many.			</p>
+			</div>
+			
+			 <div class="footer-col-3">
+			<h3> Useful Links</h3>
+			<ul>
+		<li>coupons</li>
+			<li>Blog post</li>
+		<li>Return Policy</li>
+		<li>Join Affiliate</li>
+			</ul>
+			</div>
+			
+			 <div class="footer-col-4">
+			<h3> Follow Us</h3>
+			<ul>
+		<a href="https://www.facebook.com/campaign/landing.php?campaign_id=14884913640&extra_1=s%7Cc%7C550525804791%7Ce%7Cfacebook%7C&placement=&creative=550525804791&keyword=facebook&partner_id=googlesem&extra_2=campaignid%3D14884913640%26adgroupid%3D128696220912%26matchtype%3De%26network%3Dg%26source%3Dnotmobile%26search_or_content%3Ds%26device%3Dc%26devicemodel%3D%26adposition%3D%26target%3D%26targetid%3Dkwd-1001394929%26loc_physical_ms%3D1007765%26loc_interest_ms%3D%26feeditemid%3D%26param1%3D%26param2%3D&gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlGetJgG0voxYGCAIKES1hwjOunKWKEJoFTd2bBrRjsX7n4XGDMFSqkaAveiEALw_wcB"><li>Facebook</li></a>
+		<a href="https://twitter.com/i/flow/login"><li>Twitter</li></a>
+			<a href="https://www.instagram.com/?hl=en"><li>Instagram</li></a>
+		<a href="https://www.youtube.com/"><li>YouTube</li></a>
+			</ul>
+			</div>
+			
+			</div>
+			<hr>
+				<p class="copyright"> <i class="fa fa-copyright"></i> copyright 2022 - Ashish Sehrawat </p>
+			</div>
+			</div>
+			
+					 <!----------- js for toggle menu--------->
+	 <script>
+			var menuitems = document.getlementbyid("menuitems");
+			
+			 menuitems.style.maxheight =="0px";
+			 
+			 function menutoggle(){
+			 if (menuitems.style.maxheight == "0px")
+			      {
+				  menuitems.style.maxheight = "200px";
+				  }
+				  else
+				  {
+				     menuitems.style.maxheight = "0px"
+				  }
+			 }
+	</script>	
+	
+	 <!----------- js for product gallery--------->
+		 <script>
+		 
+		 var product-img = document.getElementbyid("product-img")
+		 var small-img = document.getElementbyclassname("small-img")
+		 
+		 small-img[0].oneclick = function()
+		 {
+		 product-img.src = small-img[0].src
+		 }
+		 	 small-img[1].oneclick = function()
+		 {
+		 product-img.src = small-img[1].src
+		 }
+		 	 small-img[2].oneclick = function()
+		 {
+		 product-img.src = small-img[2].src
+		 }	
+		 small-img[3].oneclick = function()
+		 {
+		 product-img.src = small-img[3].src
+		 }
+		 
+		 
+		 
+		 
+		 
+		 	 </script>
+	
+			</body>
+			</html>

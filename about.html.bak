@@ -1,0 +1,140 @@
+<html>
+<head>
+      <meta charset="UTF-8">
+	  
+	 <title>About - Wolves </title>
+	 <link rel="stylesheet" href="style.css">
+	 <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" >
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,500;1,600&display=swap" rel="stylesheet">
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+
+   <div class="container">
+   
+   <div class="navbar">
+	    <div class="logo">
+             <a href="file:///C:/Users/user/Desktop/wolves/wolves.html"> <img src="logo.png" width="125px"></a>
+	 </div>
+       <nav>
+	       <ul>
+	        <li><a href="file:///C:/Users/user/Desktop/wolves/wolves.html">HOME</a></li>
+			<li><a href="file:///C:/Users/user/Desktop/wolves/products.html">PRODUCTS</a></li>
+			<li><a href="file:///C:/Users/user/Desktop/wolves/about.html">ABOUT</a></li>
+			<li><a href="file:///C:/Users/user/Desktop/wolves/contact.html?">CONTACT</a></li>
+			<li><a href="file:///C:/Users/user/Desktop/wolves/account.html">ACCOUNT</a></li>
+	        </ul>
+	     </nav>
+		 <a href="file:///C:/Users/user/Desktop/wolves/cart.html"><img src="image3.png" width=40px height=40px></a>
+ <!--------------<img src="menu.png" class="menu-icon">-------->
+       </div>
+	   </div>
+	 	 <!----------- about--------->  
+		 <div class="about">
+		  <h2 class="title-2"> More About Wolves</h2>
+		  
+		  <h3> Wolves: Online Shopping Made Affordable:-</h3>
+		  <p> There are lots of reasons to shop online! It can be fun and convenient. 
+		  And if you are looking for budget-friendly online shopping, then you are at the right place. 
+		  Wolves offers top-quality products at rock bottom prices, 
+		  allowing you to shop to your heart’s content without any budget restraints.</p>
+		  
+	 	<h3> Explore a Wide Range of Products Across All Categories:-</h3>
+		<p>At Wolves, you have over 50 lakh items to choose from including a wide range of apparel
+		We have 650+ product categories and thousands of handpicked products that are the latest on the market. 
+		Whether you're looking for a new outfit, a gift for a special someone, you will find everything you need at the lowest prices on Wolves. </p>
+		
+		<h3> Sports, Health & Fitness:- </h3>
+		<p> It is now more important than ever to keep your body fit and healthy. 
+		So start your fitness journey with Meesho. Check out our selection of fitness equipment available at wholesale prices.
+		You will find everything from sportswear to yoga mats to exercise equipment for your home workouts like dumbbell sets, resistance bands, etc. </p>
+	
+	    <h3> Use Wolves App for The Best Online Shopping Experience:-</h3>
+		<p> Now you can shop for anything your heart desires from the comfort of your home.
+		Make sure to download the Wolves app to have a smooth and enjoyable shopping experience.
+		You can even share products you like with your friends on social media in just seconds. 
+		If you're trying to save time and get the best deals, downloading the best app for shopping is the way to go!</p>
+		
+		<h3>Become a Reseller: Start Making Money In Three Simple Steps:-</h3>
+		<p>Now that you've been introduced to Wolves's product categories, it's time to learn about our other offerings. Besides shopping for yourself on the platform, you can also become an entrepreneur and earn cash for what you do best. Here’s how you can begin your entrepreneurial journey.
+
+<br> Browse: Use your phone to register a new account, or log in to an existing one at the Wolves app or website. You can read through our catalog and select products that you want at wholesale rates!
+
+<br>Share: You can simply send catalogs and product images over Whatsapp, Facebook, or Instagram to your contacts in a single click using the share option. 
+
+<br>Earn: Once you have shared the catalogs with your prospective customers, you'll soon start getting order requests and inquiries. You can quote product prices with an added margin, which will include a profit for you. Once an order has been placed and paid for, you can place the orders yourself using our established processes that ensure they get delivered to your waiting customers on time. 
+
+Start Your Online Shopping Journey with Wolves Today
+
+You can rest assured that we only deliver the best products to you. You have multiple payment options including debit and credit cards, UPI, and Cash on Delivery. If you're not happy with the quality of your product, send it back and get a full refund without any hassle. Want to learn more? Feel free to send us an email at query@meesho.com. You can also reach out to us on Facebook, Instagram, or Twitter. We're here to help you! </p>
+	
+		</div>	 
+	
+	 <!----------- footer--------->
+	 
+	 <div class="footer">
+	   <div class="container">
+	     <div class="row">
+		    <div class="footer-col-1">
+			<h3> Download Our App</h3>
+			<p> Download App For Android & ios mobile phone.</p>
+			 <div class="app-logo">
+			 <a href="https://play.google.com/store/games?utm_source=apac_med&utm_medium=hasem&utm_content=Oct0121&utm_campaign=Evergreen&pcampaignid=MKT-EDR-apac-in-1003227-med-hasem-py-Evergreen-Oct0121-Text_Search_BKWS-BKWS%7CONSEM_kwid_43700065205026385_creativeid_535350509687_device_c&gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlHMbVwL5hRDcMTVEWvWsbzmZsOc4vRdLmgGUnW0Z8JwnJpVgPZ7N48aAupjEALw_wcB&gclsrc=aw.ds"><img src="google play.png"></a>
+			<a href="https://www.apple.com/in/app-store/"> <img src="apple-app-store-logo.png"></a>
+			</div>
+			</div>
+			 <div class="footer-col-2">
+	<a href="file:///C:/Users/user/Desktop/wolves/wolves.html"><img src="logo2.png"></a>			
+	<p>Our purpose Is To Sustainably Make the Pleasure and
+              Benefits of Sports Accessible to the Many.</p>
+			</div>
+			
+			 <div class="footer-col-3">
+			<h3> Useful Links</h3>
+			<ul>
+			<li>coupons</li>
+			<li>Blog post</li>
+		<li>Return Policy</li>
+		<li>Join Affiliate</li>
+			</ul>
+			</div>
+			
+			 <div class="footer-col-4">
+			<h3> Follow Us</h3>
+			<ul>
+		<a href="https://www.facebook.com/campaign/landing.php?campaign_id=14884913640&extra_1=s%7Cc%7C550525804791%7Ce%7Cfacebook%7C&placement=&creative=550525804791&keyword=facebook&partner_id=googlesem&extra_2=campaignid%3D14884913640%26adgroupid%3D128696220912%26matchtype%3De%26network%3Dg%26source%3Dnotmobile%26search_or_content%3Ds%26device%3Dc%26devicemodel%3D%26adposition%3D%26target%3D%26targetid%3Dkwd-1001394929%26loc_physical_ms%3D1007765%26loc_interest_ms%3D%26feeditemid%3D%26param1%3D%26param2%3D&gclid=Cj0KCQjwnNyUBhCZARIsAI9AYlGetJgG0voxYGCAIKES1hwjOunKWKEJoFTd2bBrRjsX7n4XGDMFSqkaAveiEALw_wcB"><li>Facebook</li></a>
+		<a href="https://twitter.com/i/flow/login"><li>Twitter</li></a>
+			<a href="https://www.instagram.com/?hl=en"><li>Instagram</li></a>
+		<a href="https://www.youtube.com/"><li>YouTube</li></a>
+			</ul>
+			</div>
+			
+			</div>
+			<hr>
+			<p class="copyright"> <i class="fa fa-copyright"></i>copyright 2022 - Ashish Sehrawat </p>
+			</div>
+			</div>
+			
+			
+					 <!----------- js for toggle menu--------->
+	 <script>
+			var menuitems = document.getlementbyid("menuitems");
+			
+			 menuitems.style.maxheight =="0px";
+			 
+			 function menutoggle(){
+			 if (menuitems.style.maxheight == "0px")
+			      {
+				  menuitems.style.maxheight = "200px";
+				  }
+				  else
+				  {
+				     menuitems.style.maxheight = "0px"
+				  }
+			 }
+	</script>	 
+			
+			</body>
+			</html>
